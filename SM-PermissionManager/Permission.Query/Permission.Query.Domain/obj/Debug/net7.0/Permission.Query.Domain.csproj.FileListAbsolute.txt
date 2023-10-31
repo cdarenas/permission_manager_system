@@ -1,0 +1,17 @@
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/bin/Debug/net7.0/Permission.Query.Domain.deps.json
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/bin/Debug/net7.0/Permission.Query.Domain.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/bin/Debug/net7.0/Permission.Query.Domain.pdb
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/bin/Debug/net7.0/CQRS.Core.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/bin/Debug/net7.0/Permission.Common.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/bin/Debug/net7.0/CQRS.Core.pdb
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/bin/Debug/net7.0/Permission.Common.pdb
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/obj/Debug/net7.0/Permission.Query.Domain.csproj.AssemblyReference.cache
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/obj/Debug/net7.0/Permission.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/obj/Debug/net7.0/Permission.Query.Domain.AssemblyInfoInputs.cache
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/obj/Debug/net7.0/Permission.Query.Domain.AssemblyInfo.cs
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/obj/Debug/net7.0/Permission.Query.Domain.csproj.CoreCompileInputs.cache
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/obj/Debug/net7.0/Permission.Query.Domain.csproj.CopyComplete
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/obj/Debug/net7.0/Permission.Query.Domain.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/obj/Debug/net7.0/refint/Permission.Query.Domain.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/obj/Debug/net7.0/Permission.Query.Domain.pdb
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/obj/Debug/net7.0/ref/Permission.Query.Domain.dll

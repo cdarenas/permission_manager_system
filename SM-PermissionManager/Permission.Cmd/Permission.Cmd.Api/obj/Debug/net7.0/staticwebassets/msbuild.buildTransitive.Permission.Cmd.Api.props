@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Permission.Cmd.Api.props" />
+</Project>

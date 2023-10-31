@@ -1,0 +1,262 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Infrastructure/Permission.Query.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
+        "projectName": "CQRS.Core",
+        "projectPath": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
+        "packagesPath": "/Users/U633076/.nuget/packages/",
+        "outputPath": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/U633076/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/Permission.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/Permission.Common.csproj",
+        "projectName": "Permission.Common",
+        "projectPath": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/Permission.Common.csproj",
+        "packagesPath": "/Users/U633076/.nuget/packages/",
+        "outputPath": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/U633076/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
+                "projectPath": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/CQRS.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/Permission.Query.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/Permission.Query.Domain.csproj",
+        "projectName": "Permission.Query.Domain",
+        "projectPath": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/Permission.Query.Domain.csproj",
+        "packagesPath": "/Users/U633076/.nuget/packages/",
+        "outputPath": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/U633076/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
+                "projectPath": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/CQRS.Core.csproj"
+              },
+              "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/Permission.Common.csproj": {
+                "projectPath": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/Permission.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Infrastructure/Permission.Query.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Infrastructure/Permission.Query.Infrastructure.csproj",
+        "projectName": "Permission.Query.Infrastructure",
+        "projectPath": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Infrastructure/Permission.Query.Infrastructure.csproj",
+        "packagesPath": "/Users/U633076/.nuget/packages/",
+        "outputPath": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/U633076/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
+                "projectPath": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/CQRS.Core.csproj"
+              },
+              "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/Permission.Query.Domain.csproj": {
+                "projectPath": "/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Query/Permission.Query.Domain/Permission.Query.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/bin/Debug/net7.0/Permission.Common.deps.json
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/bin/Debug/net7.0/Permission.Common.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/bin/Debug/net7.0/Permission.Common.pdb
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/bin/Debug/net7.0/CQRS.Core.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/bin/Debug/net7.0/CQRS.Core.pdb
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/obj/Debug/net7.0/Permission.Common.csproj.AssemblyReference.cache
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/obj/Debug/net7.0/Permission.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/obj/Debug/net7.0/Permission.Common.AssemblyInfoInputs.cache
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/obj/Debug/net7.0/Permission.Common.AssemblyInfo.cs
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/obj/Debug/net7.0/Permission.Common.csproj.CoreCompileInputs.cache
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/obj/Debug/net7.0/Permission.Common.csproj.CopyComplete
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/obj/Debug/net7.0/Permission.Common.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/obj/Debug/net7.0/refint/Permission.Common.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/obj/Debug/net7.0/Permission.Common.pdb
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Common/obj/Debug/net7.0/ref/Permission.Common.dll

@@ -1,0 +1,17 @@
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/bin/Debug/net7.0/Permission.Cmd.Domain.deps.json
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/bin/Debug/net7.0/Permission.Cmd.Domain.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/bin/Debug/net7.0/Permission.Cmd.Domain.pdb
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/bin/Debug/net7.0/CQRS.Core.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/bin/Debug/net7.0/Permission.Common.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/bin/Debug/net7.0/CQRS.Core.pdb
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/bin/Debug/net7.0/Permission.Common.pdb
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/obj/Debug/net7.0/Permission.Cmd.Domain.csproj.AssemblyReference.cache
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/obj/Debug/net7.0/Permission.Cmd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/obj/Debug/net7.0/Permission.Cmd.Domain.AssemblyInfoInputs.cache
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/obj/Debug/net7.0/Permission.Cmd.Domain.AssemblyInfo.cs
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/obj/Debug/net7.0/Permission.Cmd.Domain.csproj.CoreCompileInputs.cache
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/obj/Debug/net7.0/Permission.Cmd.Domain.csproj.CopyComplete
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/obj/Debug/net7.0/Permission.Cmd.Domain.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/obj/Debug/net7.0/refint/Permission.Cmd.Domain.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/obj/Debug/net7.0/Permission.Cmd.Domain.pdb
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/SM-PermissionManager/Permission.Cmd/Permission.Cmd.Domain/obj/Debug/net7.0/ref/Permission.Cmd.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Sn5GDgOyU7SGzo3ispV+/bBnI+2pILey2vtIP39SMlQ=",
+  "Source": "Permission.Cmd.Api",
+  "BasePath": "_content/Permission.Cmd.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

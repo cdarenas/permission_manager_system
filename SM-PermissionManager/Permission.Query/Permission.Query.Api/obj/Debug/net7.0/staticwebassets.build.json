@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lOqxEoKro8CUofegOEd3fq0DSLRKfgGsg6+utvDdfRQ=",
+  "Source": "Permission.Query.Api",
+  "BasePath": "_content/Permission.Query.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

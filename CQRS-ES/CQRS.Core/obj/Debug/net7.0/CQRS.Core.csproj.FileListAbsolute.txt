@@ -1,0 +1,12 @@
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/bin/Debug/net7.0/CQRS.Core.deps.json
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/bin/Debug/net7.0/CQRS.Core.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/bin/Debug/net7.0/CQRS.Core.pdb
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/obj/Debug/net7.0/CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/obj/Debug/net7.0/CQRS.Core.AssemblyInfoInputs.cache
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/obj/Debug/net7.0/CQRS.Core.AssemblyInfo.cs
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/obj/Debug/net7.0/CQRS.Core.csproj.CoreCompileInputs.cache
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/obj/Debug/net7.0/CQRS.Core.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/obj/Debug/net7.0/refint/CQRS.Core.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/obj/Debug/net7.0/CQRS.Core.pdb
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/obj/Debug/net7.0/ref/CQRS.Core.dll
+/Users/U633076/Desktop/NETCourse/n5NowPermissionManager/CQRS-ES/CQRS.Core/obj/Debug/net7.0/CQRS.Core.csproj.AssemblyReference.cache
