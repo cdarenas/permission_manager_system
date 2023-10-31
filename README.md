@@ -1,4 +1,4 @@
-# permission_manager_system
+# PERMISSION MANAGER SYSTEM - CHALLENGE
 Permission Manager Application Demo (.NET and NextJS)
 
 
@@ -8,3 +8,8 @@ La solución Permission Manager contempla un proyecto Core para la implementaci�
 
 Arquitectura de la solución de backend con CQRS y Event Sourcing:
 
+![Arquitectura](https://github.com/cdarenas/permission_manager_system/blob/main/ArquitecturaBackend.png)
+
+Cliente Web NextJS
+
+La aplicación cliente de front-end permite listar todos los permisos a través de la API de Queries y también dar de alta nuevos permisos que son direccionados a la API de Commands. La implementación de Event Sourcing permite sincronizar ambos modelos utilizando eventos gestionados por KAFKA.
